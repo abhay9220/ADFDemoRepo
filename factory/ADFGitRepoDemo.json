@@ -1,0 +1,9 @@
+{
+	"name": "ADFGitRepoDemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3c78c070-ba01-43f1-af56-ffbc1795c5a6",
+		"tenantId": "4caf50c0-73b3-487c-a9fd-b68625690b14"
+	}
+}
